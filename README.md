@@ -1,2 +1,1 @@
-# Lista-Ex-Map-Destructuring
-Lista de Exercicios praticados em sala de aula
+# Lista-de-exercicio-map-e-destructuring
